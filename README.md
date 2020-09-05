@@ -1,3 +1,3 @@
 # Ecom-React-Nodejs
 
-# Full-Project-mern
+# Full-Project-MERN
